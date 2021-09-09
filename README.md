@@ -1,6 +1,6 @@
-## Lesson-5
+## Lesson-8
 
-Going over the concept of higher order components through use of the withRouter HOC from react-router-dom.
+Starting our sign in section by creating a new sign in and sign up page, as well as start creating sign in component.
 
 # How to fork and clone
 
